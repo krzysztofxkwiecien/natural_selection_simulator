@@ -1,0 +1,12 @@
+{
+  "windowHeight": 800,
+  "millisecondsPerEra": 5,
+  "width": 50,
+  "height": 50,
+  "startAnimals": 80,
+  "startEnergy": 30,
+  "moveEnergy":  1,
+  "plantEnergy":  45,
+  "jungleRatio":  5,
+  "numberOfWindows": 1
+}

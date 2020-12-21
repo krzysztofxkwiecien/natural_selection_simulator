@@ -1,0 +1,7 @@
+Statistics from era 2267 to 12267
+Average animals in all eras: 91
+Average grasses in all eras: 136
+Dominant genotype in all eras: 00011122233333444444455556666777
+Average energy for living animals in all eras: 59
+Average lifespan for dead animals in all eras: 23
+Average children for living animals in all eras: 1
